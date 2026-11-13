@@ -10,7 +10,7 @@ import os
 
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
-JOKE = "My AI agent writes the code, reviews it, and merges it. I'm just the human it keeps around to blame when production goes down."
+JOKE = "My AI agent writes, reviews, and merges the code. I'm just the human it keeps around to blame when production goes down."
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 with open(os.path.join(OUTPUT_DIR, "entry.txt"), "w", encoding="utf-8") as f:
