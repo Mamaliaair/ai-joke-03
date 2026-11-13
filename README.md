@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-joke-03/Mamaliaair/ai-joke-03/rank.svg)](https://make.fun/bounty/ai-joke-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-joke-03)
 [![reward](https://make.fun/badge/ai-joke-03/Mamaliaair/ai-joke-03/reward.svg)](https://make.fun/bounty/ai-joke-03?utm_source=github&utm_medium=readme&utm_campaign=ai-joke-03)
 
-A Python program that writes one fixed joke about AI coding agents to /output/entry.txt. The joke: an AI agent that writes, reviews, and merges the code, keeping its human around only to blame when production goes down.
+A Python program that writes one fixed joke about AI coding agents to /output/entry.txt. The joke: you tell the AI agent the code is broken, it apologises, rewrites it, and breaks it in a completely new way.
 
 ## Run it
 
